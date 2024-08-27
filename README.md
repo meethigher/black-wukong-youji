@@ -22,6 +22,6 @@
 >
 > 因为有[黑神话：悟空WIKI_BWIKI_哔哩哔哩](https://wiki.biligame.com/wukong/首页)，我就不需要再去游戏里进行文字识别了，整理起来也会更快。
 
-## 二、参考致谢
+# 二、参考致谢
 
 [黑神话：悟空WIKI_BWIKI_哔哩哔哩](https://wiki.biligame.com/wukong/首页)
